@@ -1,4 +1,4 @@
-##Dr. Harpal Singh
+## Dr. Harpal Singh
 **Professor**  
 **Guru Nanak Dev Engineering College, Ludhiana**  
 **Email: hps_bhoday@yahoo.com**
@@ -27,7 +27,7 @@ B.E. (1984): Civil Engineering.
 AICTE: R&D, Tackling Vulnerability in Bridges (2000-03)
 Thapar Group (TCRDC): PCFEAST PC Based Finite Element Analysis of Structures (1992)
 
-Publications: International- Journals: 12, Conferences: 14, National- Journals: 12, Conferences: 19
+**Publications:** International- Journals: 12, Conferences: 14, National- Journals: 12, Conferences: 19
         Total: 54
 
 **Papers Reviewed:**
@@ -47,3 +47,4 @@ Total: 74
 Organized: 3, Attended: 33
 
 **Short Term Course:**
+Organized:  2, Attended:  39
