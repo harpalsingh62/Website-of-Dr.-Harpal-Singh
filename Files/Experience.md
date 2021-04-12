@@ -4,7 +4,7 @@
 **Email: hps_bhoday@yahoo.com**
 
 # Experience
-| S. No. | Name Of the Employer | Position | Grade | Nature Of Work | Date Of Joining | Date Of Leaving | Total Exp. | Reason For Leaving |    
+| S. No. | Name Of the Employer | Position | Grade | Nature Of Work | Date Of Joining | Date Of Leaving | Total Exp. | Reason For Leaving |
 | ------ | -------------------- | -------- | ----- | -------------- | --------------- | --------------- | ---------- | ------------------ |
  1     | GNDEC, LDH                                  | Professor                  | UGC        | Teaching, Research, Consultancy | 17.11.1998      | working         | 14 yr      | na                  |              |
 | 2      | GNDEC LDH                                   | Principal                  | UGC        | Administration                  | 01.10.2017      | 13.11.2017      | 1.5m       | na                  |              |
