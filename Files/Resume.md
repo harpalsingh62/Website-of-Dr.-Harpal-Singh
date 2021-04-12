@@ -33,7 +33,7 @@ Thapar Group (TCRDC): PCFEAST PC Based Finite Element Analysis of Structures (19
 **Papers Reviewed:**
 International Journal: 01
 
-Supervision: Ph.D.:05 (on going), M.Tech.: 66
+**Supervision:** Ph.D.:05 (on going), M.Tech.: 66
 
 **Consultancy Projects:**
 Design of multistoried Buildings, Design of Highway Bridges, Buildings, Concrete mix design, Structural Testing, Industrial Structures, Design of OHSR’s,
