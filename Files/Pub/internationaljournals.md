@@ -5,7 +5,6 @@
 
 # Publications in International Journals
 |S. No.	|Title	|Co-Authors, if any	|Name Of Journal	|Volume & Year	|Pages	|Impact Factor	|ISSN/ISSN No.|		|API Score|
-
 |	|	|	|	|	|	|	||		|(R+I+IF)A|
 
 |1	|Nonlinear analysis of Frames	|Singh GM	|Computer & Structures	|44 (6), 1992	|1377-1379	|3.57	|0045-7949|		|(15+5+15)0.6|
@@ -29,8 +28,4 @@
 |9	|Performance of Different Shear Wall Positions in	|Asna Yani	|Journal of Civil Engineering and Environmental Technology	|6(3), April-June, 2019	|123-127	|4.5208	|2349|		|(15+5+15)0.6|
 |	|Building using Pushover Analysis	|	|	|	|	|	||		|21|
 |10	|Study of RC Wrapped Beam with Polymers and Metal Matrix Composites	|Amandeep Kaur	|International Research Journal of Engineering and Technology (IRJET) 	|Volume: 07 Issue: 05 | May 2020	|4185-4198	|7.529	|ISSN: 2395-0056|		|(15+5+15)0.6|
-|	|	|	|	|	|	|	||		|21|
-|11	|Assessment on Polymer and Metal Matrix Composites in Structural Applications	|Amandeep Kaur	|International Journal of Creative Research Thoughts (IJCRT) 	|Volume 8, Issue 6 June 2020 | 	|2132-2135	|7.97	|ISSN: 2320-2882|		|(15+5+15)0.6|
-|	|	|	|	|	|	|	||		|21|
-|12	|A Review on Metal and Polymer Matrix Composites	|Amandeep Kaur	|IJSRD - International Journal for Scientific Research & Development| 	|Vol. 8, Issue 4, 2020 | 	|394-397	|4.396	|ISSN (online): 2321-0613|		|(15+5+15)0.6|
 |	|	|	|	|	|	|	||		|21|
