@@ -5,6 +5,7 @@
 
 # Publications in International Journals
 |S. No.	|Title	|Co-Authors, if any	|Name Of Journal	|Volume & Year	|Pages	|Impact Factor	|ISSN/ISSN No.|		|API Score|
+
 |	|	|	|	|	|	|	||		|(R+I+IF)A|
 
 |1	|Nonlinear analysis of Frames	|Singh GM	|Computer & Structures	|44 (6), 1992	|1377-1379	|3.57	|0045-7949|		|(15+5+15)0.6|
