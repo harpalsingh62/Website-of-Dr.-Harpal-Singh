@@ -22,7 +22,7 @@
 ### [Projects](Files/Projects.md)
 ### [Awards](Files/Awards.md)
 ### [Review](Files/Review.md)
-### [Subjects Taught](Files\Subjects.md)
+### [Subjects Taught](Files/Subjects.md)
 ### [Expert Lectures](Files/Lectures.md)
 ### [Grants](Files/Grants.md)
 ### [Consultancy](Files/Consultancy.md)
