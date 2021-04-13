@@ -5,7 +5,7 @@
 
 # Publications
 
-#### [Publications in International Journals](Files/Pub/internationaljournals.md)
-#### [Publications in International Conferences](Files/Pub/internationalconferences.md)
-#### [Publications in National Journals](Files/Pub/nationaljournals.md)
-#### [Publications in National Conferences](Files/Pub/nationalconferences.md)
+#### [Publications in International Journals](Pub/internationaljournals.md)
+#### [Publications in International Conferences](Pub/internationalconferences.md)
+#### [Publications in National Journals](Pub/nationaljournals.md)
+#### [Publications in National Conferences](Pub/nationalconferences.md)
