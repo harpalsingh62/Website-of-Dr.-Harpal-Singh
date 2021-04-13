@@ -10,6 +10,7 @@
 2.	AICTE sponsored R & D Project on 'Tackling Vulnerability of Bridges', 2000-03, Rs. 8.00 lac.
 3.	AICTE sponsored short term course on 'Low Cost Housing', 2000, Rs. 0.84 lac.
 4.	International travel grant to present paper- 'Response of 3D Framed structures under floor excitation', 2nd Asia Pacific Conference on Shock and Impact Loads on structures Melbourne, Australia, 25-27, Nov. 1997.
+
   a.	AICTE		Rs. 0.29 lac
   b. 	DST			Rs.0. 22 lac
   c. 	CST			Rs. 0.15 lac
