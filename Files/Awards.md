@@ -4,3 +4,10 @@
 **Email: hps_bhoday@yahoo.com**
 
 # Awards
+International:  Awards: 10
+Medals: 02
+National: Awards: 49
+Medals: 13
+Total: 74
+
+### [Number of Publications in International Journals = 12](../Documents/Biodata2.pdf)
