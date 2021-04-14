@@ -10,4 +10,4 @@ National: Awards: 49
 Medals: 13
 Total: 74
 
-### [Number of Publications in International Journals = 12](../Documents/Biodata2.pdf)
+### [List of Awards](../Documents/Biodata2.pdf)
