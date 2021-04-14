@@ -5,7 +5,7 @@
 
 # Publications in International Journals
 
-### [Number of Publications in International Journals = 12](../../Documents/Biodata2.pdf)
+### [Number of Publications in International Journals = 12](../../../Documents/Biodata2.pdf)
 
 | S. No | Title                                                                                                                | Co-Authors, if any  | Name Of Journal                                                   | Volume & Year    | Pages     | Impact Factor | ISSN/ISSN No. | API  Score  =(R+I+IF)A |    
 | ----- | -------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------- | ---------------- | --------- | ------------- | ------------- | ---------------------- |
