@@ -18,6 +18,6 @@ Number of Expert Lectures Delivered = 13
 | 7      | Finite Element Concepts                                 | GNDEC, Ludhiana                                                  | 31, Oct., 2013    |
 | 8      | FEA for waste minimization                              | NITTTR, Chandigarh                                               | 11, May, 2020     |
 | 9      | FEA for waste minimization                              | NITTTR, Chandigarh                                               | 08, Jun, 2020     |
-| 10     | Application of FEA in Mechanical manufacturing          | NITTTR, Chandigarh                                               | 44010             |
+| 10     | Application of FEA in Mechanical manufacturing          | NITTTR, Chandigarh                                               | 28, Jun, 2020     |
 | 11     | Basics of FEM                                           | NITTTR, Chandigarh                                               | 14. Aug, 2020     |
 | 12     | FEM simulation in 3D engineering and biomedical science | NITTTR, Chandigarh                                               | 07,Oct, 2020      |
