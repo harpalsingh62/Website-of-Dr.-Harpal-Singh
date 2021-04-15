@@ -4,4 +4,9 @@
 **Email: hps_bhoday@yahoo.com**
 
 # Sponsored Projects
-Service Load Response Prediction of Reinforced Concrete Flexural Members, Str. Engg. & Mech. (an International Journal), 1999.
+
+
+| S. No. | Sponsering Agency | Title                                          | Area     | Period        | Amount      | Whether Completed |
+| ------ | ----------------- | ---------------------------------------------- | -------- | ------------- | ----------- | ----------------- |
+| 1      | AICTE             | Tackling Vulnerability in Bridges              | Bridges  | 2000-02       | Rs. 8.0 lac | yes               |
+| 2      | TCRDC, PTA        | PC Based Finite Element Analysis of Structures | FEM, CAD | Jan-Dec, 1992 | Rs. 3.0 lac | yes               |
