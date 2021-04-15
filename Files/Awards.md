@@ -10,4 +10,4 @@ National: Awards: 49
 Medals: 13
 Total: 74
 
-### [List of Awards](../Documents/Biodata2.pdf)
+### [Number of Awards = 59](../Documents/Biodata2.pdf)
