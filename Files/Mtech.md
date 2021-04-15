@@ -4,3 +4,5 @@
 **Email: hps_bhoday@yahoo.com**
 
 # MTech Thesis Guidance
+
+### [Number of MTech Thesis Guided = 66](../../Documents/Biodata2.pdf)
