@@ -5,4 +5,4 @@
 
 # Publications in International Conferences
 
-### [Number of Publications in International Conferences = 15](../../Documents/Biodata2.pdf)
+### [Number of Publications in International Conferences = 15](../../Documents/Pubintc.pdf)

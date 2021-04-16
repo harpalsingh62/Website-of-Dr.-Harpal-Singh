@@ -5,4 +5,4 @@
 
 # MTech Thesis Guidance
 
-### [Number of MTech Thesis Guided = 66](../Documents/Biodata2.pdf)
+### [Number of MTech Thesis Guided = 66](../Documents/Mtechthesis.pdf)

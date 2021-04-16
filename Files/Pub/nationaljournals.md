@@ -5,4 +5,4 @@
 
 # Publications in National Journals
 
-### [Number of Publications in National Journals = 12](../../Documents/Biodata2.pdf)
+### [Number of Publications in National Journals = 12](../../Documents/Pubnj.pdf)
