@@ -7,7 +7,7 @@
 
 | Sr. No. | Title of Subject                              | UG/PG | Number of Time Tought |     
 | ------- | --------------------------------------------- | ----- | --------------------- |
-| 1       | Finite Element Method in Engineering Analysis | PG    | 5                     |     |
+| 1       | Finite Element Method in Engineering Analysis | PG    | 5                     |     
 | 2       | Theory and Design of Plates and Grids         | PG    | 5                     |     
 | 3       | Computer Aided Design                         | PG    | 5                     |     
 | 4       | Structural Dynamics                           | PG    | 2                     |     
@@ -20,4 +20,4 @@
 | 11      | Structural Analysis-II                        | UG    | 2                     |     
 | 12      | Structural Analysis-I                         | UG    | 1                     |     
 | 13      | Design of Steel Structures-I                  | UG    | 2                     |     
-| 14      | Design of Reinforced Conrete Structures-II    | UG    | 1                     |     
+| 14      | Design of Reinforced Concrete Structures-II   | UG    | 1                     |     
