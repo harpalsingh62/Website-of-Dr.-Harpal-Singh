@@ -11,7 +11,7 @@ Teaching, Research, Administration, Consultancy
 **ORCID/SCOPUS:**
 ORCID: https://orcid.org/0000-0002-1311-5574
 
-Scopus Author ID: 57218964847
+Scopus Author ID: 57218964847;
 Scopus Author ID: 57218797851
 
 **Present Post:**
