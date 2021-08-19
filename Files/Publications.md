@@ -5,6 +5,7 @@
 
 # Publications
 
+#### [Publications in SCOPUS ](Pub/scoupus.md)
 #### [Publications in International Journals](Pub/internationaljournals.md)
 #### [Publications in International Conferences](Pub/internationalconferences.md)
 #### [Publications in National Journals](Pub/nationaljournals.md)
