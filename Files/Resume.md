@@ -36,7 +36,7 @@ B.E. (1984): Civil Engineering.
 AICTE: R&D, Tackling Vulnerability in Bridges (2000-03)
 Thapar Group (TCRDC): PCFEAST PC Based Finite Element Analysis of Structures (1992)
 
-**Publications:** International- Journals: 12, Conferences: 15, National- Journals: 12, Conferences: 19
+**Publications:** International- Journals: 20, Conferences: 15, National- Journals: 12, Conferences: 19
         Total: 58
 
 **Papers Reviewed:**
@@ -56,7 +56,7 @@ Total: 74
 Organized: 3, Attended: 34
 
 **Expert Lectures:**
-Delivered: 12
+Delivered: 14
 
 **Memberships:**
 Membership of Professional Bodies: 11
