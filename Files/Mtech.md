@@ -5,4 +5,4 @@
 
 # MTech Thesis Guidance
 
-### [Number of MTech Thesis Guided = 70](../Documents/Mtechthesis.pdf)
+### [Number of MTech Thesis Guided = 72](../Documents/Mtechthesis.pdf)
