@@ -4,6 +4,7 @@
 **Email: hps_bhoday@yahoo.com**
 
 # Experience
+Total = 36 years
 
 | S. No. | Name Of the Employer                        | Position                   | Grade      | Nature Of Work                  | Date Of Joining | Date Of Leaving | Total Exp. | Reason For Leaving  |
 | ------ | ------------------------------------------- | -------------------------- | ---------- | ------------------------------- | --------------- | --------------- | ---------- | ------------------- |
