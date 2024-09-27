@@ -15,7 +15,7 @@ Scopus Author ID: 57218964847;
 Scopus Author ID: 57218797851
 
 **Present Post:**
-Deputy Director, GNDEC Ludhiana Nov. 17, 1998 till date
+Principal, Swamy Sarvanand Institute of Engineering and Technolgy, Gurdaspur Since 22.06.2024
 
 **Experience:**
 Principal: 1.5 m. GNDEC, Ludhiana
