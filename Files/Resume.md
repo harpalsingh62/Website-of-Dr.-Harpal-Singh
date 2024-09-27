@@ -1,6 +1,6 @@
 ## Dr. Harpal Singh
-**Professor**  
-**Guru Nanak Dev Engineering College, Ludhiana**  
+**Principal**  
+**Swamy Sarvanand Institute of Engineering and technolgy, Gurdaspur**  
 **Email: hps_bhoday@yahoo.com**
 
 # Resume
