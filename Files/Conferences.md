@@ -4,9 +4,9 @@
 **Email: hps_bhoday@yahoo.com**
 
 
-### [Number of International Conferences Attended = 15](../Documents/Biodata2.pdf)
+### [Number of International Conferences Attended = 15](../Documents/Pubintc.pdf)
 
-### [Number National Conferences Attended = 19](../Documents/Biodata2.pdf)
+### [Number National Conferences Attended = 19](../Documents/Pubnc.pdf)
 
 
 # Conferences Organized
